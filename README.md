@@ -7,6 +7,6 @@ Clicking the toolbar icon does the following:
 
 *It is the complete rewrite of the YesScript addon that will be incompatible from Firefox version 57. Currently available for Firefox browser only, see the official addon page for more info:*
 
-https://addons.mozilla.org/addon/yesscript2/
+https://addons.mozilla.org/addon/ye
 
 I take no responsibility whatsoever in regards of this software, use it at your own risk.
